@@ -1,0 +1,16 @@
+TransactionID,CustomerID,Gender,Age,City,ProductCategory,Product,Quantity,UnitPrice,TotalAmount,PurchaseDate,PaymentMethod
+1001,C001,Male,25,New York,Electronics,Smartphone,1,699.0,699,2024-01-05,Credit Card
+1002,C002,Female,32,Los Angeles,Clothing,T-Shirt,3,25.0,75,2024-01-06,Cash
+1003,C003,Male,41,Chicago,Groceries,Apples,5,2.0,10,2024-01-07,Debit Card
+1004,C004,Female,29,Houston,Clothing,Jeans,2,40.0,80,2024-01-07,Credit Card
+1005,C005,Female,35,New York,Electronics,Laptop,1,1200.0,1200,2024-01-08,Online Payment
+1006,C006,Male,22,Los Angeles,Groceries,Bread,4,3.0,12,2024-01-09,Cash
+1007,C007,Female,28,Chicago,Furniture,Chair,2,150.0,300,2024-01-09,Debit Card
+1008,C008,Male,40,Houston,Electronics,Headphones,1,199.0,199,2024-01-10,Credit Card
+1009,C009,Female,45,New York,Groceries,Milk,6,1.5,9,2024-01-10,Cash
+1010,C010,Male,30,Los Angeles,Furniture,Table,1,350.0,350,2024-01-11,Online Payment
+1011,C011,Female,27,Chicago,Clothing,Dress,2,60.0,120,2024-01-12,Credit Card
+1012,C012,Male,38,Houston,Electronics,Smartwatch,1,250.0,250,2024-01-12,Debit Card
+1013,C013,Female,34,New York,Clothing,Skirt,1,45.0,45,2024-01-13,Cash
+1014,C014,Male,29,Los Angeles,Groceries,Eggs,12,0.5,6,2024-01-14,Online Payment
+1015,C015,Female,50,Chicago,Furniture,Sofa,1,800.0,800,2024-01-14,Credit Card
